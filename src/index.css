@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* 
+ * Globally increase root font scale to make all text across 
+ * the application slightly larger and highly clear and readable,
+ * especially in standard and high-density viewports.
+ */
+html {
+  font-size: 17px;
+}
+
+body {
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

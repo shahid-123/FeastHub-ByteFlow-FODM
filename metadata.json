@@ -1,0 +1,6 @@
+{
+  "name": "Food Ordering & Hotel Management Platform",
+  "description": "A comprehensive web-based food ordering system featuring a customer portal for browsing menus and tracking orders, and a dedicated Hotel Manager admin dashboard for real-time inventory and delivery orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
